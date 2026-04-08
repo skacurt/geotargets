@@ -1,4 +1,5 @@
-# geotargets
-Google Ads - geoatarget CSV files
+# geo targets
+
+Google Ads - Geoa Target CSV files
 
 Source: https://developers.google.com/google-ads/api/data/geotargets
